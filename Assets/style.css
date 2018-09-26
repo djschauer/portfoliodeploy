@@ -11,6 +11,12 @@
     background-color: firebrick;
 }
 
+.projImg {
+    height: auto;
+    width: auto;
+    overflow: auto;
+}
+
 #imageMe {
     transform: rotate(90deg);
     height: 100px;
